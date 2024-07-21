@@ -2,6 +2,8 @@
 
 This project involves the design and implementation of FSM-based modules for debouncing a switch and detecting edges. The modules are implemented in Verilog and synthesized for FPGA programming.
 
+![WhatsApp Image 2024-07-21 at 18 06 18_8e2cd15a](https://github.com/user-attachments/assets/00b7968c-1de6-4379-9cda-a7d86f0c6599)
+
 ## Overview
 
 Switches are often prone to noise, which can cause multiple transitions (bounces) when pressed or released. This project aims to address this issue by creating a debouncing circuit. Additionally, an edge detector is implemented to detect rising and falling edges of the switch signal.
