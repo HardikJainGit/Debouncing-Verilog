@@ -1,6 +1,6 @@
 # Debouncing Circuits and Edge Detection using FSMs
 
-This project involves the design and implementation of FSM-based modules for debouncing a switch and detecting edges. The modules are implemented in Verilog and synthesized for FPGA programming.
+This project involves the design and implementation of FSM-based modules for debouncing a switch and detecting edges. The modules are implemented in Verilog and synthesized for FPGA programming. The FPGA used is Nexys Artix-7 100T with CSG-324 chip.
 
 ![WhatsApp Image 2024-07-21 at 18 06 18_8e2cd15a](https://github.com/user-attachments/assets/00b7968c-1de6-4379-9cda-a7d86f0c6599)
 
